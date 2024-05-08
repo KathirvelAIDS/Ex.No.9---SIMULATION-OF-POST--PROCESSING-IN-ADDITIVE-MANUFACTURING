@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![image](https://github.com/KathirvelAIDS/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/94911373/c75229ba-0131-43e5-98fd-c7bf27be0d53)
+
+
+
+
+### Name: KATHIRVEL.A
+### Register Number: 212221230047
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
